@@ -101,15 +101,22 @@ Manhattan is the most expensive borough; Brooklyn offers more affordable options
 - Listings are highly concentrated in central Manhattan and Brooklyn.
 - Staten Island shows the lowest density—possibly due to lower tourist activity.
 ________________________________________
-🧱 Recommendations
+# Recommendations
+
 For Guests:
-•	Look for listings with high availability and positive reviews.
-•	Consider private rooms in Brooklyn for affordable stays.
+
+- Look for listings with high availability and positive reviews.
+
+- Consider private rooms in Brooklyn for affordable stays.
+  
 For Hosts:
-•	Improve availability and responsiveness to boost bookings.
-•	Manage competitive pricing within each borough.
+
+- Improve availability and responsiveness to boost bookings.
+
+- Manage competitive pricing within each borough.
 ________________________________________
 🚀 How to Run the Project
+
 1.	Clone the repo:
 git clone https://github.com/your-username/airbnb-nyc-eda-2024.git
 cd airbnb-nyc-eda-2024
@@ -118,15 +125,11 @@ pip install -r requirements.txt
 3.	Launch the notebook:
 jupyter notebook airbnb_eda.ipynb
 ________________________________________
+
 📈 Future Work
-•	Build machine learning models to predict price based on location and features.
-•	Perform sentiment analysis on reviews.
-•	Create interactive dashboards using Plotly or Tableau.
-________________________________________
-📄 License
-This project is licensed under the MIT License.
-________________________________________
-📬 Contact
-•	YouTube: @Zero_Analyst
-•	GitHub: Your GitHub Username
-•	LinkedIn: Your Name
+
+- Build machine learning models to predict price based on location and features.
+
+- Perform sentiment analysis on reviews.
+
+- Create interactive dashboards using Plotly or Tableau.
