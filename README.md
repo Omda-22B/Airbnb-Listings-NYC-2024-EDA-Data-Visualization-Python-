@@ -41,7 +41,7 @@ ________________________________________
 
 # Steps & Workflow 🔧
 
-# 1⃣ Data Cleaning
+# Data Cleaning
 
 •	Removed nulls in key columns: price, neighbourhood, beds.
 
@@ -49,36 +49,57 @@ ________________________________________
 
 •	Filtered outliers: Capped listings above $1,000 for better visualization.
 
-# 2⃣ Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 •	Room Type Distribution:
+
 Entire homes/apartments dominate the listings.
+
 •	Neighborhood Insights:
+
 Manhattan has the highest average prices.
+
 •	Price Distribution:
+
 Most listings fall between $50 - $300.
+
 •	Review Trends:
+
 Listings with high review counts tend to have lower prices.
+
 •	Availability Patterns:
+
 Listings available year-round often offer better value.
-3⃣ Visualizations
-•	📦 Histograms & Boxplots – to analyze price distribution & outliers
-•	📍 Scatter Plots – to visualize location & pricing
-•	📈 Bar Charts – to show frequency by room type and neighborhood
-•	🔥 Heatmaps – to identify feature correlations
+
+# Visualizations
+
+•	Histograms & Boxplots – to analyze price distribution & outliers
+
+•	Scatter Plots – to visualize location & pricing
+
+•	Bar Charts – to show frequency by room type and neighborhood
+
+•	Heatmaps – to identify feature correlations
 ________________________________________
-💡 Key Findings & Insights
+
+# Key Findings & Insights
+
 •	Price:
 Manhattan is the most expensive borough; Brooklyn offers more affordable options.
 •	Room Types:
-Entire homes/apartments are most common, followed by private rooms.
+
+- Entire homes/apartments are most common, followed by private rooms.
+
 •	Outliers:
-Some listings exceed $10,000—likely luxury properties needing filtering.
+- Some listings exceed $10,000—likely luxury properties needing filtering.
+
 •	Host Behavior:
-Some hosts manage multiple listings, indicating a professional presence.
+- Some hosts manage multiple listings, indicating a professional presence.
+
 •	Geographic Patterns:
-Listings are highly concentrated in central Manhattan and Brooklyn.
-Staten Island shows the lowest density—possibly due to lower tourist activity.
+
+- Listings are highly concentrated in central Manhattan and Brooklyn.
+- Staten Island shows the lowest density—possibly due to lower tourist activity.
 ________________________________________
 🧱 Recommendations
 For Guests:
