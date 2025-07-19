@@ -1,5 +1,5 @@
-#🏩 Airbnb Listings EDA Project: New York 2024
-📌 Project Overview
+##🏩 Airbnb Listings EDA Project: New York 2024
+📌 #Project Overview
 This project explores Airbnb listings data in New York City using Exploratory Data Analysis (EDA) techniques. The aim is to uncover insights about pricing, availability, room types, and geographic trends to help both guests and hosts make informed decisions.
 Libraries used: Pandas, NumPy, Matplotlib, Seaborn
 ________________________________________
